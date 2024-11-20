@@ -1,0 +1,346 @@
+O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O
+O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice
+O O O B-devicedevice I-devicedevice I-devicedevice
+O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice
+O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage O B-roomroom I-roomroom I-roomroom O B-floornumberfloornumber I-floornumberfloornumber I-floornumberfloornumber O
+O O O B-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage O
+O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage O
+O B-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage O O
+O O O B-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage O
+O O O B-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage O B-roomroom I-roomroom O B-floornumberfloornumber I-floornumberfloornumber I-floornumberfloornumber O
+O O O O O O B-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage O
+O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage O B-roomroom I-roomroom I-roomroom O B-floornumberfloornumber I-floornumberfloornumber O
+O O O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage O
+O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage O B-roomroom I-roomroom O B-floornumberfloornumber I-floornumberfloornumber I-floornumberfloornumber O
+O O O O O O B-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage O
+O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice
+O O O B-devicedevice I-devicedevice I-devicedevice
+O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage O
+O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage O O
+O O O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage O
+O O O O O O B-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage O
+O O O O O O O B-devicedevice I-devicedevice
+O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage O
+O O O B-devicedevice I-devicedevice I-devicedevice
+O O O O O O O O O B-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage O
+O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O O
+O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O
+O O O O O O O B-devicedevice I-devicedevice
+O O O B-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage O
+O O O O O O O B-devicedevice I-devicedevice
+O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice
+O B-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage O O
+O O O O O B-devicedevice I-devicedevice O O
+O B-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage O O
+O B-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage O O
+O O O B-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage O
+O O O O O B-devicedevice O O
+O O O O O O O O O B-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage O
+O O O O O O O O O B-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage O
+O O O B-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage O B-roomroom I-roomroom O B-floornumberfloornumber I-floornumberfloornumber I-floornumberfloornumber O
+B-commandcommand O O O B-devicedevice I-devicedevice I-devicedevice O O O O
+B-commandcommand O O O B-devicedevice I-devicedevice I-devicedevice O O O O
+B-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-final-valuesysnumber
+B-commandcommand O O O B-devicedevice I-devicedevice I-devicedevice O O O O
+B-commandcommand O B-roomroom I-roomroom I-roomroom I-roomroom O O B-final-valuesysnumber
+B-commandcommand O O O B-devicedevice I-devicedevice I-devicedevice O O O O
+B-devicedevice I-devicedevice O B-final-valuesysnumber
+B-commandcommand O O O B-devicedevice I-devicedevice I-devicedevice O O O O
+B-commandcommand B-devicedevice I-devicedevice I-devicedevice O O B-final-valuesysnumber
+O B-commandcommand B-devicedevice I-devicedevice B-roomroom I-roomroom O O B-final-valuesysnumber
+B-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom O O
+B-commandcommand O B-roomroom I-roomroom O O B-final-valuesysnumber
+B-commandcommand B-devicedevice O O B-final-valuesysnumber
+O O O O B-devicedevice I-devicedevice I-devicedevice
+B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O
+B-commandcommand O B-roomroom I-roomroom I-roomroom O O B-final-valuesysnumber
+B-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-final-valuesysnumber
+O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice
+B-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-final-valuesysnumber
+B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-final-valuesysnumber
+B-commandcommand O B-roomroom I-roomroom O O B-final-valuesysnumber
+B-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O
+O B-commandcommand B-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom I-roomroom O O B-final-valuesysnumber
+B-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-roomroom O O
+B-commandcommand B-devicedevice I-devicedevice O O B-final-valuesysnumber
+B-devicedevice I-devicedevice O B-final-valuesysnumber
+B-commandcommand O B-devicedevice I-devicedevice I-devicedevice O O B-final-valuesysnumber
+B-devicedevice I-devicedevice I-devicedevice O B-final-valuesysnumber
+O B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom O O B-final-valuesysnumber
+O O O O B-devicedevice I-devicedevice
+B-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-final-valuesysnumber
+B-devicedevice I-devicedevice O B-final-valuesysnumber
+B-commandcommand B-devicedevice O O B-final-valuesysnumber
+O B-commandcommand B-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom O O B-final-valuesysnumber
+B-commandcommand B-devicedevice I-devicedevice O O B-final-valuesysnumber
+O O O O B-devicedevice I-devicedevice
+B-commandcommand O B-roomroom I-roomroom I-roomroom O O B-final-valuesysnumber
+O B-commandcommand B-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom O O B-final-valuesysnumber
+B-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom O O
+O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice
+O O O B-devicedevice O B-roomroom I-roomroom O O O O
+O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom O O O O O O O
+O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom I-roomroom O O O O
+O O O B-devicedevice O B-roomroom I-roomroom O O O O
+O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom O
+O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O O O O O
+O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O
+O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O
+O O O B-devicedevice I-devicedevice O B-roomroom I-roomroom O O O O
+O O O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom O
+O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O
+O O B-devicedevice O B-roomroom I-roomroom O O O O
+O O O B-devicedevice I-devicedevice O
+O O O B-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O O O
+O O O B-devicedevice O
+O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O O O O O
+B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O O
+O O O O O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O
+O O O B-devicedevice
+O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O O O O O
+O O O O O B-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom
+O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom O O O O O O O
+O O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom O O O O
+O O O B-devicedevice I-devicedevice I-devicedevice
+O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom
+O O O O B-devicedevice O B-roomroom I-roomroom I-roomroom O
+B-devicedevice I-devicedevice B-statusstatus I-statusstatus O
+O O O B-devicedevice I-devicedevice O
+O O O O O O B-devicedevice O B-roomroom I-roomroom O
+O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom O
+B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O O
+B-devicedevice I-devicedevice I-devicedevice B-statusstatus I-statusstatus O
+O O O O O B-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom
+B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-statusstatus I-statusstatus I-statusstatus I-statusstatus O
+O O O O O B-devicedevice I-devicedevice O B-roomroom I-roomroom
+O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom O O O O
+O O O B-devicedevice I-devicedevice
+B-devicedevice I-devicedevice B-statusstatus I-statusstatus I-statusstatus O
+O O O B-devicedevice I-devicedevice I-devicedevice
+O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom O O O O O O O
+B-devicedevice I-devicedevice I-devicedevice B-statusstatus I-statusstatus I-statusstatus O
+B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O O
+O O O B-devicedevice I-devicedevice I-devicedevice O
+O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom O
+O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O O O O O
+O B-devicedevice I-devicedevice I-devicedevice O B-roomroom O O O O O O O
+O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice
+O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom O O O O O O O
+O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom O
+B-commandcommand B-devicedevice O O O
+O O B-devicedevice O B-roomroom I-roomroom O O O O
+O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O O O O O
+O O O O O B-devicedevice I-devicedevice O B-roomroom I-roomroom
+O O B-devicedevice O B-roomroom
+O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom
+O B-commandcommand O B-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage
+B-commandcommand I-commandcommand O B-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage
+O B-commandcommand I-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage
+B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage
+B-commandcommand I-commandcommand O B-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage
+B-commandcommand B-allall B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage
+O O B-devicedevice I-devicedevice O B-roomroom
+O O O O O O B-roomroom I-roomroom I-roomroom O O O O O O O O O O O O O O B-change-valuesyspercentage I-change-valuesyspercentage B-devicedevice I-devicedevice I-devicedevice O
+B-commandcommand O B-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage
+B-commandcommand B-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage
+O B-commandcommand I-commandcommand O B-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage
+B-commandcommand I-commandcommand B-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage
+O O O O O O B-roomroom I-roomroom O O O O O O O O O O O O O O B-change-valuesyspercentage I-change-valuesyspercentage B-devicedevice I-devicedevice I-devicedevice I-devicedevice O
+B-commandcommand I-commandcommand B-allall B-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage
+B-commandcommand I-commandcommand B-allall B-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage
+O O O O O O B-roomroom I-roomroom O O O O O O O O O O O O O O B-change-valuesyspercentage I-change-valuesyspercentage B-devicedevice I-devicedevice I-devicedevice O
+B-commandcommand O B-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage
+B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage
+O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom
+B-commandcommand I-commandcommand B-allall B-devicedevice I-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage
+B-commandcommand B-allall B-devicedevice I-devicedevice O B-change-valuesyspercentage I-change-valuesyspercentage
+O O O O O O B-roomroom I-roomroom O O O O O O O O O O O O O O B-change-valuesyspercentage I-change-valuesyspercentage B-devicedevice I-devicedevice I-devicedevice I-devicedevice O
+B-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage
+O O O O O O B-roomroom I-roomroom I-roomroom O O O O O O O O O O O O O O B-change-valuesyspercentage I-change-valuesyspercentage B-devicedevice I-devicedevice O
+O B-commandcommand I-commandcommand O B-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage
+O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom
+O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage
+B-commandcommand B-devicedevice I-devicedevice O O B-final-valuesyspercentage I-final-valuesyspercentage O O
+B-commandcommand B-devicedevice I-devicedevice I-devicedevice O O B-final-valuesyspercentage I-final-valuesyspercentage O O
+B-commandcommand B-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage
+B-commandcommand B-allall B-devicedevice I-devicedevice I-devicedevice O O B-final-valuesyspercentage I-final-valuesyspercentage
+B-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage
+B-commandcommand B-allall B-devicedevice I-devicedevice I-devicedevice O O B-final-valuesyspercentage I-final-valuesyspercentage
+B-commandcommand B-final-valuesyspercentage I-final-valuesyspercentage B-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom
+B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom B-final-valuesyspercentage I-final-valuesyspercentage
+B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage
+O O B-commandcommand B-devicedevice I-devicedevice
+B-commandcommand B-devicedevice I-devicedevice I-devicedevice O O B-final-valuesyspercentage I-final-valuesyspercentage O O
+B-commandcommand B-allall B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-final-valuesyspercentage I-final-valuesyspercentage
+O B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom
+B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom B-final-valuesyspercentage I-final-valuesyspercentage
+B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom B-final-valuesyspercentage I-final-valuesyspercentage
+O O B-commandcommand B-devicedevice
+B-commandcommand B-final-valuesyspercentage I-final-valuesyspercentage B-devicedevice I-devicedevice I-devicedevice B-roomroom
+B-commandcommand B-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage
+B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-final-valuesyspercentage I-final-valuesyspercentage O O
+B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-final-valuesyspercentage I-final-valuesyspercentage
+B-commandcommand B-allall B-devicedevice I-devicedevice O O B-final-valuesyspercentage I-final-valuesyspercentage
+B-commandcommand B-allall B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-final-valuesyspercentage I-final-valuesyspercentage
+O O B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice
+B-commandcommand B-final-valuesyspercentage I-final-valuesyspercentage B-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom
+B-commandcommand B-final-valuesyspercentage I-final-valuesyspercentage B-devicedevice I-devicedevice B-roomroom I-roomroom
+O B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom
+O B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom
+O B-commandcommand O O B-devicedevice O B-roomroom I-roomroom I-roomroom
+B-commandcommand B-devicedevice I-devicedevice O O B-final-valuesyspercentage I-final-valuesyspercentage O O
+O O B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice
+O O O O B-devicedevice I-devicedevice O B-colorcolor O
+O B-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor O O O
+B-commandcommand B-colorcolor I-colorcolor O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom B-floornumberfloornumber I-floornumberfloornumber I-floornumberfloornumber
+O O O B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O O B-colorcolor I-colorcolor O
+O O O B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O O B-colorcolor O
+O B-commandcommand I-commandcommand B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-colorcolor
+O B-commandcommand B-devicedevice I-devicedevice O B-colorcolor I-colorcolor
+O O O O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice O B-colorcolor
+O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-colorcolor O
+O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor O
+O B-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-colorcolor
+O O O O B-commandcommand O B-devicedevice O B-colorcolor I-colorcolor
+O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor O
+O B-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor O O O
+O O O O B-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor O
+O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-colorcolor O
+O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor O
+B-devicedevice I-devicedevice B-commandcommand O B-colorcolor
+O O O O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice O O O
+O O O O B-commandcommand I-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O O O
+O B-commandcommand B-devicedevice I-devicedevice O B-colorcolor I-colorcolor
+O O O O B-commandcommand O B-devicedevice O O O
+B-commandcommand B-colorcolor O B-devicedevice I-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom I-roomroom B-floornumberfloornumber I-floornumberfloornumber I-floornumberfloornumber
+O O O B-commandcommand I-commandcommand O O B-devicedevice I-devicedevice O O B-colorcolor I-colorcolor O
+O O O O B-commandcommand I-commandcommand O B-devicedevice I-devicedevice I-devicedevice O B-colorcolor
+O O O B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-colorcolor O
+O B-commandcommand I-commandcommand B-devicedevice O B-colorcolor I-colorcolor
+B-commandcommand B-colorcolor O B-devicedevice I-devicedevice B-roomroom I-roomroom I-roomroom B-floornumberfloornumber
+O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor O
+B-devicedevice I-devicedevice I-devicedevice B-commandcommand O B-colorcolor I-colorcolor
+O B-commandcommand B-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor O O O
+B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-commandcommand O B-colorcolor
+O O O O B-commandcommand I-commandcommand O B-devicedevice I-devicedevice I-devicedevice O B-colorcolor
+B-devicedevice I-devicedevice I-devicedevice I-devicedevice B-commandcommand O B-colorcolor
+O O O O B-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor O
+O O O O B-commandcommand I-commandcommand O B-devicedevice I-devicedevice I-devicedevice O O O
+O O O O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O O
+O O O B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O O B-colorcolor I-colorcolor O
+B-devicedevice I-devicedevice I-devicedevice B-commandcommand I-commandcommand O B-colorcolor
+O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor O
+O O O O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-colorcolor I-colorcolor
+O B-commandcommand B-devicedevice I-devicedevice O B-colorcolor O O O
+O O O B-devicedevice O O B-sysnumbersysnumber O
+O B-devicedevice I-devicedevice
+O O O O O B-devicedevice I-devicedevice I-devicedevice
+O O O O O B-devicedevice I-devicedevice I-devicedevice
+O O O B-devicedevice I-devicedevice O O B-sysnumbersysnumber O
+O O O O O B-devicedevice
+O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice
+O O O B-devicedevice I-devicedevice
+O O O B-devicedevice O
+O O O O O B-devicedevice I-devicedevice I-devicedevice
+O O O B-devicedevice I-devicedevice O O B-sysnumbersysnumber O
+O O O B-devicedevice
+O B-devicedevice I-devicedevice I-devicedevice I-devicedevice
+O O O B-devicedevice I-devicedevice
+O B-devicedevice I-devicedevice
+O O O B-devicedevice I-devicedevice O O B-sysnumbersysnumber O
+O O B-commandcommand O O B-roomroom I-roomroom I-roomroom O O B-final-valuesysnumber
+O O O B-devicedevice I-devicedevice O
+O O B-commandcommand I-commandcommand O O B-roomroom I-roomroom O O B-final-valuesysnumber
+O O O B-devicedevice I-devicedevice I-devicedevice O
+O O O B-devicedevice
+O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice
+O O O B-devicedevice I-devicedevice
+O O O B-devicedevice I-devicedevice I-devicedevice O
+O O B-commandcommand O O B-roomroom I-roomroom O O B-final-valuesysnumber
+O B-devicedevice I-devicedevice
+O O B-commandcommand I-commandcommand O O B-roomroom I-roomroom I-roomroom I-roomroom O O B-final-valuesysnumber
+O B-devicedevice I-devicedevice I-devicedevice I-devicedevice
+O O B-commandcommand O O B-roomroom I-roomroom O O B-final-valuesysnumber
+O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice
+O O O B-devicedevice I-devicedevice O
+O O O B-devicedevice I-devicedevice I-devicedevice
+O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice
+O O O B-devicedevice O O B-sysnumbersysnumber O
+O O O O O O B-devicedevice I-devicedevice I-devicedevice O B-sysnumbersysnumber O B-roomroom I-roomroom O O O
+O O B-devicedevice I-devicedevice
+O O O O O O B-devicedevice I-devicedevice
+B-devicedevice I-devicedevice B-commandcommand I-commandcommand O O B-final-valuesysnumber
+O O B-devicedevice I-devicedevice I-devicedevice
+O O O O O O B-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O
+O O O O O O B-devicedevice I-devicedevice I-devicedevice O
+O O O O B-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O B-roomroom I-roomroom I-roomroom O O
+O O O O O O B-devicedevice I-devicedevice O
+B-devicedevice I-devicedevice B-commandcommand I-commandcommand O O B-final-valuesysnumber
+O O B-devicedevice I-devicedevice
+O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O
+O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice
+O O O O O O B-devicedevice I-devicedevice O B-sysnumbersysnumber O B-roomroom I-roomroom O O O
+O O O O O O O O B-devicedevice I-devicedevice I-devicedevice O B-sysnumbersysnumber O
+O O O O O O B-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O
+O O O O O O O O B-devicedevice I-devicedevice I-devicedevice O B-sysnumbersysnumber O
+O O B-devicedevice I-devicedevice O B-roomroom O O O O O O O O
+B-devicedevice I-devicedevice B-commandcommand O O B-final-valuesysnumber
+O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice
+O O O O O O B-devicedevice I-devicedevice I-devicedevice O
+O O B-devicedevice I-devicedevice O B-roomroom I-roomroom O O O O O O O O
+O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom O O O O O O O O
+O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O B-roomroom I-roomroom I-roomroom I-roomroom O O
+O O O O O O B-devicedevice I-devicedevice I-devicedevice O
+B-devicedevice I-devicedevice I-devicedevice B-commandcommand I-commandcommand O O B-final-valuesysnumber
+O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-sysnumbersysnumber O B-roomroom I-roomroom I-roomroom I-roomroom O O O
+O O O O O O B-devicedevice I-devicedevice O
+O O O O O O B-devicedevice I-devicedevice I-devicedevice
+O O O O O O B-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O
+O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-sysnumbersysnumber O B-roomroom I-roomroom I-roomroom O O O
+O O O O B-devicedevice I-devicedevice O O B-sysnumbersysnumber O B-roomroom I-roomroom I-roomroom O O
+O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice
+O O O O O O B-devicedevice I-devicedevice I-devicedevice O B-sysnumbersysnumber O B-roomroom I-roomroom I-roomroom I-roomroom O O O
+O O O O O O B-devicedevice
+O O B-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom I-roomroom O O O O O O O O
+O O O O O O B-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O
+O O O O O O O O B-devicedevice I-devicedevice O B-sysnumbersysnumber O
+O O O O O O O O B-devicedevice I-devicedevice I-devicedevice O B-sysnumbersysnumber O
+O O O O O O B-devicedevice I-devicedevice
+O O O O B-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O B-roomroom I-roomroom O O
+O O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom O O O O O O O O
+O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O O B-sysnumbersysnumber O B-roomroom I-roomroom I-roomroom I-roomroom O O
+B-devicedevice I-devicedevice B-commandcommand O O B-final-valuesysnumber
+O O O O O O O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-sysnumbersysnumber O
+B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O
+B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O
+B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O
+B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O
+O O B-commandcommand O O O O O O
+B-commandcommand O O B-devicedevice I-devicedevice O
+B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O
+O O O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O
+O O B-commandcommand O O O O O O
+B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O
+O O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O O
+O O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O O
+B-commandcommand O O B-devicedevice I-devicedevice O
+O O O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O
+B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O
+O O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom O O O
+B-commandcommand O O B-devicedevice I-devicedevice O
+O O O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice O
+O O B-commandcommand O B-devicedevice I-devicedevice O B-roomroom O O O
+B-commandcommand O O B-devicedevice I-devicedevice O
+B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O
+B-commandcommand O O B-devicedevice O
+B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice O
+B-commandcommand O O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O
+O O O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice O
+O O O B-commandcommand O B-devicedevice I-devicedevice O
+O O B-commandcommand O B-devicedevice I-devicedevice I-devicedevice I-devicedevice O B-roomroom I-roomroom I-roomroom O O O
+O O O O O
+O O O
+O O O O
+O O
+O O O O O O
+O O O O

@@ -1,0 +1,11 @@
+anchor_class,negative_class
+smart.home.increase.percentage,smart.home.increase.level
+smart.home.increase.level,smart.home.increase.percentage
+smart.home.decrease.percentage,smart.home.decrease.level
+smart.home.set.color,smart.home.check.status
+smart.home.set.level,smart.home.device.onoff
+smart.home.device.onoff,smart.home.set.level
+smart.home.decrease.level,smart.home.decrease.percentage
+smart.home.set.percentage,smart.home.device.onoff
+smart.home.check.status,greeting
+greeting,smart.home.check.status

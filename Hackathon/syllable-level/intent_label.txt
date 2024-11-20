@@ -1,0 +1,10 @@
+smart.home.decrease.level
+smart.home.set.percentage
+smart.home.decrease.percentage
+smart.home.set.color
+greeting
+smart.home.set.level
+smart.home.device.onoff
+smart.home.increase.percentage
+smart.home.increase.level
+smart.home.check.status

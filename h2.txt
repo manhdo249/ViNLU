@@ -1,0 +1,99 @@
+du -h --max-depth=1
+
+git checkout origin/master -- NeuroMax
+git checkout origin/master -- main.py
+git checkout origin/master -- basic_trainer.py
+git checkout origin/master -- datasets
+git checkout origin/master -- ETM
+
+
+# PHASE2
+# First, run the previous bash script to train JointBERT-CRF_PhoBERTencoder
+# !bash run_jointBERT-CRF_PhoBERTencoder.sh
+
+# Now set up environment variables for the new training run
+lr = "4e-5"
+s = "100"
+iw = "0.2"
+sw = "0.6"
+cw = "0.2"
+
+# Display the variables
+print(lr)
+
+# Set the MODEL_DIR path for JointIDSF
+MODEL_DIR = f"/content/drive/MyDrive/ViNLU/Model_Hackathon/JointCLIDSF_PhoBERTencoder/{lr}/{iw}-{sw}-{cw}/{s}"
+print(MODEL_DIR)
+
+python3 main.py --token_level word-level \
+                --model_type clphobert \
+                --model_dir MODEL_DIR \
+                --data_dir Hackathon \
+                --seed 100 \
+                --use_MOO 1 \
+                --MOO_name CAGrad \
+                --task_num 3 \
+                --use_decompose 1 \
+                --decompose_name SVD \
+                --do_train \
+                --do_eval \
+                --save_steps 56 \
+                --logging_steps 56 \
+                --epoch_phase1_threshold -1 \
+                --Number_frozen_block 11 \
+                --num_train_epochs 50 \
+                --tuning_metric mean_intent_slot \
+                --use_intent_context_attention \
+                --attention_embedding_size 200 \
+                --use_crf \
+                --gpu_id 0 \
+                --embedding_type soft \
+                --intent_loss_weight 0.2 \
+                --slot_loss_weight 0.6 \
+                --contrastive_loss_weight 0.2 \
+                --use_contrastive_learning \
+                --contrastive_margin 0.6 \
+                --pretrained \
+                --pretrained_path Model_Hackathon/JointCLBERT-CRF_PhoBERTencoder/3e-5/0.6-0.2-0.2/100 \
+                --learning_rate 4e-5
+
+
+python3 main.py --token_level word-level \
+                  --model_type clphobert \
+                  --model_dir MODEL_DIR \
+                  --data_dir Hackathon \
+                  --train_batch_size 32\
+                  --do_train \
+                  --do_eval \
+                  --save_steps 56 \
+                  --logging_steps 56 \
+                  --num_train_epochs 20 \
+                  --tuning_metric mean_intent_slot \
+                  --use_intent_context_attention \
+                  --attention_embedding_size 200 \
+                  --use_crf \
+                  --gpu_id 0 \
+                  --pretrained \
+                  --pretrained_path Model_Hackathon/JointCLBERT-CRF_PhoBERTencoder_hardnega_batch16/3e-5/0.6-0.2-0.2/100 \
+                  --embedding_type soft \
+                  --intent_loss_weight 0.2 \
+                  --slot_loss_weight 0.6 \
+                  --contrastive_loss_weight 0.2 \
+                  --use_contrastive_learning \
+                  --seed 100 \
+                  --use_MOO 0 \
+                  --MOO_name CAGrad \
+                  --task_num 3 \
+                  --use_decompose 1 \
+                  --decompose_name SVD \
+                  --epoch_phase1_threshold -1 \
+                  --Number_frozen_block 11 \
+                  --contrastive_margin 0.4 \
+                  --num_negative_samples 4 \
+                  --learning_rate 4e-5
+
+
+                  
+
+
+
