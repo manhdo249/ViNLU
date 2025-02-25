@@ -1,4 +1,4 @@
-# VLP_NLU: An Improvement of Joint Intent Detection and Slot Filling for Vietnamese
+# ViNLU: An Improvement of Joint Intent Detection and Slot Filling for Vietnamese
 
 This project implements a joint model, **JointIDSF**, for intent detection and slot filling, extending the recent state-of-the-art [JointBERT+CRF](https://arxiv.org/abs/1902.10909) model. JointIDSF integrates an intent-slot attention layer to explicitly incorporate intent context information into slot filling via "soft" intent label embedding.
 
@@ -11,26 +11,13 @@ This project implements a joint model, **JointIDSF**, for intent detection and s
 <img width="600" alt="model" src="https://i.imgur.com/7bmIlzq.jpeg">
 </p>
 
-Further details on JointIDSF’s architecture, dataset construction, and experimental results can be found in our [paper](https://www.isca-speech.org/archive/interspeech_2021/dao21_interspeech.html):
-
-```bibtex
-@inproceedings{JointIDSF,
-    title     = {{Intent Detection and Slot Filling for Vietnamese}},
-    author    = {Mai Hoang Dao and Thinh Hung Truong and Dat Quoc Nguyen},
-    booktitle = {Proceedings of the 22nd Annual Conference of the International Speech Communication Association (INTERSPEECH)},
-    year      = {2021}
-}
-```
-
-**Please CITE** this paper if you use this dataset or model implementation in your own research or software.
-
 ## Dataset
 
 <p align="center">	
 <img width="400" alt="statistic" src="dataset_statistic.png">
 </p>
 
-> **By downloading [their dataset](https://github.com/tue09/VLP_NLU/tree/main/PhoATIS), the USER agrees:**
+> **By downloading [their dataset](https://github.com/manhdo249/ViNLU/tree/main/PhoATIS), the USER agrees:**
 > - To use the dataset solely for research or educational purposes.
 > - **Not** to redistribute the dataset, in whole or in part, in any form.
 > - To cite our paper whenever the dataset is used in research publications.
@@ -45,8 +32,8 @@ Requirements:
 
 Clone and install:
 ```bash
-git clone https://github.com/tue09/VLP_NLU.git
-cd VLP_NLU/
+git clone https://github.com/manhdo249/ViNLU.git
+cd ViNLU/
 pip install -r requirements.txt
 ```
 
